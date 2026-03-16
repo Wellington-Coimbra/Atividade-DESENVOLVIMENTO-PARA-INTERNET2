@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Planos para o futuro</title>
+</head>
+
+<body>
+
+<h1>Planos para o futuro</h1>
+
+<h2>Objetivos profissionais</h2>
+
+<p>No futuro quero trabalhar na área de tecnologia.</p>
+
+<p>Quero aprender mais programação e crescer nessa área.</p>
+
+<h2>Objetivos pessoais</h2>
+
+<p>Também quero melhorar minha vida e conquistar meus objetivos.</p>
+
+<p>Espero continuar estudando e aprendendo coisas novas.</p>
+
+<h2>Mensagem final</h2>
+
+<p>Com estudo e esforço eu espero ter um bom futuro.</p>
+
+</body>
+</html>
