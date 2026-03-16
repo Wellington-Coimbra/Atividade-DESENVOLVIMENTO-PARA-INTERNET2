@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Sobre mim</title>
+</head>
+
+<body>
+
+<h1>Sobre mim</h1>
+
+<h2>Quem sou eu</h2>
+
+<p>Meu nome é Wellington Coimbra de Souza e tenho 20 anos. Moro em São paulo e estudo na Uninove Santo Amaro.</p>
+
+<p>Faço o curso de Análise e Desenvolvimento de Sistemas e também trabalho.</p>
+
+<h2>Minha personalidade</h2>
+
+<p>Eu sou uma pessoa tranquila e gosto de jogar.</p>
+
+<p>Também tento sempre fazer o meu melhor nos estudos e no trabalho.</p>
+
+<h2>O que gosto de fazer</h2>
+
+<p>No meu dia a dia gosto de usar o computador e aprender mais sobre tecnologia.</p>
+
+<p>Também gosto de ouvir música e descansar quando tenho tempo livre.</p>
+
+</body>
+</html>
