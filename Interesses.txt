@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interesses e hobbies</title>
+</head>
+
+<body>
+
+<h1>Interesses e hobbies</h1>
+
+<h2>Tecnologia</h2>
+
+<p>Eu gosto de tecnologia e de aprender coisas novas sobre computador e programação.</p>
+
+<h2>Atividades que gosto</h2>
+
+<p>No meu tempo livre gosto de ouvir música e usar o computador.</p>
+
+<p>Também gosto de ver vídeos e aprender mais sobre tecnologia.</p>
+
+<h2>Coisas que gostaria de aprender</h2>
+
+<p>No futuro quero aprender mais programação e melhorar minhas habilidades.</p>
+
+</body>
+</html>
